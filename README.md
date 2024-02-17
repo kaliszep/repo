@@ -1,1 +1,2 @@
 # repozytorium
+# klony
