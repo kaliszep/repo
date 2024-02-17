@@ -4,3 +4,4 @@
 # klony2
 # kali
 # repozytorium
+# repozytorium
